@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://ashuthosh-mr.github.io"
+baseurl: "/pixelartist_mr"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://ashuthosh-mr.github.io/pixelartist_mr/gallery/"  
+  - JOURNAL: "https://ashuthosh-mr.github.io/pixelartist_mr/journal/"
+  - ABOUT: "https://ashuthosh-mr.github.io/pixelartist_mr/about/"
 
 # All translation keys
 translations:
