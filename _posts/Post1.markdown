@@ -26,4 +26,4 @@ comments: false
 The lens that helps me click many stories has its own story. After all of this research, whenever I see this lens mounted on my camera, I think about the history of my lens starting from the cold-war era. The past owners of this lens, the images that were clicked using this lens, the places it had been and a lot more.
 I would like to thank eBay, Ukrainian Post, Indian Post and the people of the internet who shared the information about the lens. The pictures in this article are clicked using Helios lens and are owned by me.</p>
 
-<p>Thanks for your time</p>
+<p>Thanks for your time.</p>
