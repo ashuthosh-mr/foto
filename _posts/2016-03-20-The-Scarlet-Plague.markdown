@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "The Scarlet Plague"
-subtitle:   "Jack London"
+title:      "History of Helios"
+subtitle:   "Ashuthosh M R"
 active: journal
 image:
   feature: "pc002.jpg"
 date:       2016-03-20
-header-img: "img/postcover/pc002.jpg"
+header-img: "img/postcover/image2.jpeg"
 tags: [tag03, tag04]
 categories: [cat03, cat04]
 comments: false
