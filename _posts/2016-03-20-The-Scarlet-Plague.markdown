@@ -4,11 +4,11 @@ title:      "History of Helios"
 subtitle:   "Ashuthosh M R"
 active: journal
 image:
-  feature: "pc002.jpg"
-date:       2016-03-20
+  feature: "image2.jpeg"
+date:       2022-04-07
 header-img: "img/postcover/image2.jpeg"
-tags: [tag03, tag04]
-categories: [cat03, cat04]
+tags: [vintage, helios]
+categories: [Review, Lens history]
 comments: false
 ---
 
