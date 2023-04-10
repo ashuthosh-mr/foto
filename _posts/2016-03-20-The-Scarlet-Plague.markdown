@@ -12,24 +12,18 @@ categories: [cat03, cat04]
 comments: false
 ---
 
-<p>The boys laughed and lay down again in the sand, while Granser sighed  ponderously. He had eaten too much, and, with hands clasped on his  paunch, the fingers interlaced, he resumed his maunderings.</p>
+<p>As a photography enthusiast, I wanted to try portrait photography which usually involves usage of a portrait lens. Portrait lenses are used to get the depth of field in the photograph. They blur the background and focus sharply on the subject. This effect is called the “Bokeh” effect. The amount of bokeh depends on the aperture of the lens. Higher the aperture, greater the blur in the background. Portrait lenses are expensive, some of them cost more than the camera body itself. I started to search for cheap lenses which will fit my budget. I stumbled on the concept of vintage lenses.</p>
 
-<p>"'The fleeting systems lapse like foam,'" he mumbled what was evidently  a quotation. "That's it&mdash;foam, and fleeting. All man's toil upon the  planet was just so much foam. He domesticated the serviceable animals,  destroyed the hostile ones, and cleared the land of its wild vegetation.  And then he passed, and the flood of primordial life rolled back again,  sweeping his handiwork away&mdash;the weeds and the forest inundated his  fields, the beasts of prey swept over his flocks, and now there are  wolves on the Cliff House beach." He was appalled by the thought. "Where  four million people disported themselves, the wild wolves roam to-day,  and the savage progeny of our loins, with prehistoric weapons, defend  themselves against the fanged despoilers. Think of it! And all because  of the Scarlet Death&mdash;"</p>
+<p>On exploring more about the vintage lenses, many times I came across the lens name “Helios”. It was famous for the swirly bokeh(elliptical shape other than usual circular) near the edges of the image due to the imperfection in the lens itself, as you can see in the above image. It was produced from 1959–1999. Currently, it is being sold on eBay in the range of $25-$75. I decided to buy Helios-44 58mm F/2.0 from an American seller, who posted the ad in French, asked me to pay the money in Euros. The lens along with the M42 mount (bridge between my camera and lens) was packed from the city of Kiev, Ukraine. (might have witnessed the accident of Chernobyl)</p>
 
-<p>The adjective had caught Hare-Lip's ear.</p>
+<p>Using this lens, I had to manually focus and click the photo since it consists optic and metal elements without any electrical elements. I was amazed by the photos it could capture from my digital camera. The images clicked using this lens gave a dreamy feel. Then I wanted to know about the history of the lens.</p>
 
-<p>"He's always saying that," he said to Edwin. "What is scarlet?"</p>
+<p>With a little Googling about the lens, I found that the age of the lens and the factory of the manufacturer could be known from the serial number and the symbol printed on the lens. The serial number was 84xxxxxx which meant that my lens was manufactured in 1984 ( 2 years before the Chernobyl incident) and there was a symbol of Jupiter Optics Valdai, USSR. The age of the lens was almost twice that of my age! I didn’t stop there, I wanted to know more about the lens. So I searched for some more information about the lens.</p>
 
-<p>"'The scarlet of the maples can shake me like the cry of bugles going  by,'" the old man quoted.</p>
+<p>The lens, although made in USSR, had German DNA in it. It is believed that the formula of the lens resembles Carl Zeiss BioTar lens. After WWII, East Germany where the Carl Zeiss Jena Plant was located, was under the control of the Communist USSR. The successful formula of Carl Zeiss by Dr. Willy Walter Merte in 1936 was taken to make the Helios. Helios lenses started production in 1959, as times went the Helios lenses were altered but the formula of the lens making remained the same. So why did Helios lenses become famous when there was already a BioTar lens?</p>
 
-<p>"It's red," Edwin answered the question. "And you don't know it because  you come from the Chauffeur Tribe. They never did know nothing, none of  them. Scarlet is red&mdash;I know that."</p>
+<p>Helios Lenses were mainly made for Zenit cameras. It was mass produced under the USSR communist rule in three factories namely KMZ, MMZ and JOV. It is believed that this lens is the most produced lens in the world. The lenses were used for military, spy and photography etc. Lenses had serial numbers printed on them of varying length depending on the factory and the date of manufacture. The serial numbers starting with 000xxxxx were the models which were the main prototypes, serial numbers starting with 00xxxxx were the models which were supplied to communist officials, serial numbers starting with 0xxxxxx were for the factory personnel. So, the lenses with the serial numbers starting with 0xxxxx are believed to be better than others.
+The lens that helps me click many stories has its own story. After all of this research, whenever I see this lens mounted on my camera, I think about the history of my lens starting from the cold-war era. The past owners of this lens, the images that were clicked using this lens, the places it had been and a lot more.
+I would like to thank eBay, Ukrainian Post, Indian Post and the people of the internet who shared the information about the lens. The pictures in this article are clicked using Helios lens and are owned by me.</p>
 
-<p>"Red is red, ain't it?" Hare-Lip grumbled. "Then what's the good of  gettin' cocky and calling it scarlet?"</p>
-
-<p>"Granser, what for do you always say so much what nobody knows?" he  asked. "Scarlet ain't anything, but red is red. Why don't you say red,  then?"</p>
-
-<p>"Red is not the right word," was the reply. "The plague was scarlet.  The whole face and body turned scarlet in an hour's time. Don't I  know? Didn't I see enough of it? And I am telling you it was scarlet  because&mdash;well, because it was scarlet. There is no other word for it."</p>
-
-<p>"Red is good enough for me," Hare-Lip muttered obstinately. "My dad  calls red red, and he ought to know. He says everybody died of the Red  Death."</p>
-
-<p>Placeholder text by <a href="http://www.fillerati.com/">Fillerati</a>. Photography by <a href="https://unsplash.com">UNSPLASH</a>.</p>
+<p>Thanks for your time.</p>
