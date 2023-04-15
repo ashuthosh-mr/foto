@@ -3,7 +3,7 @@ title: pixelartist_mr
 email: ""
 description: "Photo Journal"
 url: "https://ashuthosh.de"
-baseurl: ""
+baseurl: "/pixelartist_mr"
 #facebook_username: ""
 #twitter_username: ""
 #instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://ashuthosh.de/gallery/"  
-  - JOURNAL: "https://ashuthosh.de/journal/"
-  - ABOUT: "https://ashuthosh.de/about/"
+  - GALLERY: "https://ashuthosh.de/pixelartist_mr/gallery/"  
+  - JOURNAL: "https://ashuthosh.de/pixelartist_mr/journal/"
+  - ABOUT: "https://ashuthosh.de/pixelartist_mr/about/"
   
  # - GALLERY: "https://ashuthosh-mr.github.io/pixelartist_mr/gallery/"  
  # - JOURNAL: "https://ashuthosh-mr.github.io/pixelartist_mr/journal/"
