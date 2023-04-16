@@ -4,9 +4,9 @@ title:      "Easy Astro-photography: How to shoot Milkyway Galaxy?"
 subtitle:   "Ashuthosh M R"
 active: journal
 image:
-  feature: "image2.jpeg"
+  feature: "6.jpeg"
 date:       2022-05-25
-header-img: "img/postcover/image2.jpeg"
+header-img: "img/postcover/6.jpeg"
 tags: [milkway, astrophotography]
 categories: [tutorial]
 comments: false
