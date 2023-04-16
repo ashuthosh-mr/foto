@@ -1,9 +1,9 @@
 # Site settings
-title: pixelartist_mr
-email: ""
+title: pixelartist
+email: "ashuthosh_mr@pm.me"
 description: "Photo Journal"
 url: "https://ashuthosh.de"
-baseurl: "/pixelartist_mr"
+baseurl: "/foto"
 #facebook_username: ""
 #twitter_username: ""
 #instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://ashuthosh.de/pixelartist_mr/gallery/"  
-  - JOURNAL: "https://ashuthosh.de/pixelartist_mr/journal/"
-  - ABOUT: "https://ashuthosh.de/pixelartist_mr/about/"
+  - GALLERY: "https://ashuthosh.de/foto/gallery/"  
+  - JOURNAL: "https://ashuthosh.de/foto/journal/"
+  - ABOUT: "https://ashuthosh.de/foto/about/"
   
  # - GALLERY: "https://ashuthosh-mr.github.io/pixelartist_mr/gallery/"  
  # - JOURNAL: "https://ashuthosh-mr.github.io/pixelartist_mr/journal/"
